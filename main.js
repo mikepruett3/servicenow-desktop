@@ -83,7 +83,7 @@ createWindow = () => {
     })
 
     const icon = nativeImage.createFromPath(__dirname + '/images/ServiceNow.ico')
-    const tray = new Tray(icon)
+    tray = new Tray(icon)
 
     const contextMenu = Menu.buildFromTemplate([
         {
