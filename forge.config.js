@@ -10,7 +10,7 @@ module.exports = {
       name: '@electron-forge/maker-squirrel',
       config: {
         iconUrl: 'https://raw.githubusercontent.com/mikepruett3/servicenow-desktop/main/images/ServiceNow.ico',
-        setupIcon: './images/YouTube.ico'
+        setupIcon: './images/ServiceNow.ico'
       },
     },
     {
