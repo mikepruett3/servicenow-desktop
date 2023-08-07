@@ -4,14 +4,15 @@
 
 ServiceNow Desktop is a simple Desktop application for ServiceNow, built using [ElectronJS](https://www.electronjs.org).
 
-## Features (Tray)
+## Features
 
+- Spell Check
 - Remove Stored URL
 - Control for Hardware Acceleration
 
 ## Installation
 
-Dowload the lates [release](https://github.com/mikepruett3/servicenow-desktop/releases) for Windows, Linux and MacOS.
+Dowload the latest [release](https://github.com/mikepruett3/servicenow-desktop/releases) for Windows, Linux and MacOS.
 
 For Windows... a standard Exectuable is provided, as well as a NuGet package. RPM and DEB packages are availbe for Linux Distrubtions (not tested!).
 
